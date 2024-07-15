@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogypepev.github.io/sitemap
+Sitemap: https://ogypepev.github.io/app/sitemap
+Sitemap: https://ogypepev.github.io/assets/sitemap
+Sitemap: https://ogypepev.github.io/css/sitemap
+Sitemap: https://ogypepev.github.io/includes/sitemap
+Sitemap: https://ogypepev.github.io/item/sitemap
+Sitemap: https://ogypepev.github.io/src/sitemap
